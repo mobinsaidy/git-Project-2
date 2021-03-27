@@ -45,3 +45,6 @@ def hash_password_hack(input_file_name, output_file_name):
              csv_file2.write(",")
              csv_file2.write(str(c[b[i]]))
              csv_file2.write("\n")
+             
+             
+print(10000)
